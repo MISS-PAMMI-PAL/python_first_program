@@ -1,0 +1,5 @@
+It contains all simple python projects
+
+# Project List are :-
+1. Print Hello World
+
